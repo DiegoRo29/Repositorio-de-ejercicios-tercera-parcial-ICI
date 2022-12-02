@@ -12,4 +12,4 @@
 ### Número de cuenta: 20185475
 ### Grado y grupo: 3°B
 ### Docente: Walter Alexander Mata López
-### Fecha de entrega: 01/12/2022
+### Fecha de entrega: 02/12/2022
